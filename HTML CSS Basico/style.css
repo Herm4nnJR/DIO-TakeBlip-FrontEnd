@@ -1,0 +1,44 @@
+body {
+    background-color: lightgray;
+    font-family: Verdana Arial;
+}
+
+.photo{
+    border-radius: 50%;
+    border: 3px solid greenyellow;
+}
+
+#title{
+    color: darkred; 
+    text-transform: uppercase;
+}
+
+.subtitle, .post_title{
+    color: darkred; 
+    text-transform: capitalize;
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background-color: white;
+    padding: 15px;
+    border: 2px solid gray;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.contact_list{
+    list-style-type: none;
+    padding-left: 0;
+}
