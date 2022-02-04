@@ -15,3 +15,10 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+
+function openRickAndMorty(){
+    window.open("https://www.youtube.com/watch?v=DuYpZeszaM4");
+}
+function moreInformation(){
+    window.open("https://pt.wikipedia.org/wiki/Rick_and_Morty");
+}
